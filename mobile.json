@@ -1,0 +1,32 @@
+[
+    {
+    "Model" : "Redmi Note 10 pro",
+    "brand" : "Redmi",
+    "price" : 12500.00,
+    "camera" : "48MP",
+    "RAM" : "4GB",
+    "Processor" : "Snapdragon 720G",
+    "image" : "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTH9QZYvR0pM9EZ3RMSIslAr3iB2B-H6pbb6r4JymcVw8khWHDRn0k7d9brv2AC1hmsoveF8u1vCnFwkrXySpG_7H8hGjxebQ",
+    "isAvailable" : true
+},
+{
+    "Model" : "Samsung Galaxy F62",
+    "brand" : "Samsung",
+    "price" : 24500.00,
+    "camera" : "64MP",
+    "RAM" : "6/8 GB",
+    "Processor" : "Exynos 9611",
+    "image" : "https://www.gizmochina.com/wp-content/uploads/2021/02/f62-500x500.jpg",
+    "isAvailable" : true
+},
+{
+    "Model" : "One plus 9",
+    "brand" : "One Plus",
+    "price" : 45000.00,
+    "camera" : "50MP",
+    "RAM" : "8/12 GB",
+    "Processor" : "Snapdragon 888",
+    "image" : "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9/Arcticsky_9.png",
+    "isAvailable" : true
+}
+] 
